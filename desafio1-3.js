@@ -18,7 +18,6 @@ Tuane trabalha com HTML, Node.js
 
 =========================================*/
 
-
 // Crie um programa que armazena um array de usuários (objetos), cada usuário tem um nome e suas tecnologias (novo array)
 
 const usuarios = [
@@ -39,51 +38,10 @@ for (let i = 0; i < usuarios.length; i++) {
   console.log(`${usuarios[i].nome} trabalha com ${usuarios[i].tecnologias.join(', ')}`)
 }
 
-
-
 // imprimindo em tela as informações dos usuários:
 // Daniel trabalha com JavaScript, HTML
 // Camilo trabalha com Android, Java
 // Davi trabalha com HTML, CSS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -114,6 +72,8 @@ for (let i = 0; i < usuarios.length; i++) {
 }
 
 ======================================*/
+
+
 
 // PARTE 3
 /*======================================
