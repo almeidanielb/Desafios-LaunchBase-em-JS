@@ -10,10 +10,6 @@
 
 <p align="center">
 
-  <a href="LICENSE">
-    <img alt="Language" src="https://img.shields.io/badge/language-JavaScript-%23F8952D?style=flat-square">
-  </a>
-
   <a href="LICENSE" >
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
